@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
+
 
 x = [1, 2, 3, 4, 5]
 y1 = [9, 4, 2, 4, 9]
